@@ -1,0 +1,13 @@
+ syso cnrl +space+enter
+ Saving file ---ctrl+s
+ Saving all files -- Shift + ctrl + S
+Creating main method -- main cnrl +space+enter
+Format -- Shift + ctrl + F
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ C:\Users\nchowdhury\git\repository -Repositories
